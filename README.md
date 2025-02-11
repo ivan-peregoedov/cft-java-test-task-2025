@@ -5,10 +5,13 @@
 Инструкция по запуску:
 
 В папке startup:
+
 1.1. java -jar application.jar < опции коммандой строки, например: -p result- > < список входных файлов >
 
 В корневой папке проекта:
+
 2.1. Для компиляции: mvn clean compile assembly:single
+
 
 2.2. Для запуска: java -jar target/cft-task-1.0-SNAPSHOT-jar-with-dependencies.jar < опции коммандой строки > < список входных файлов >
 
