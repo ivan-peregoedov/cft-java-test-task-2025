@@ -18,4 +18,4 @@ Java: 17
 
 Система сборки: Apache Maven 3.6.3
 
-Доп. библиотеки: Jcommander 1.78
+Доп. библиотеки: Jcommander 1.78 (https://mvnrepository.com/artifact/com.beust/jcommander/1.78)
